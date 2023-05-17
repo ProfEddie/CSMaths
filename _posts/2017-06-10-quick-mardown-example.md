@@ -29,7 +29,7 @@ in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
 
-
+$y=f(x)$
 An h2 header
 ------------
 
